@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Blogging Website**
 
-- 🌱 I’m currently learning **React JS,Node Js,Java Script,MongoDb**
+- 🌱 I’m currently learning **React JS,Node Js,Java Script,MongoDb, Express JS**
 
 - 📫 How to reach me **business@ankittechtalks.com**
 
