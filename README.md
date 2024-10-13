@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS,Node Js,Java Script,MongoDb**
 
-- 📫 How to reach me **ankitchaurasiya84@gmail.com**
+- 📫 How to reach me **business@ankittechtalks.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
