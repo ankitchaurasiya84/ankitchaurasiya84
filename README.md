@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Ankit%20Chaurasiya&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20GenAI%20Engineer&descColor=7b8cde&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Ankit%20Chaurasiya&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=FullStack%20Developer%20%7C%20GenAI%20Engineer&descColor=7b8cde&descAlignY=58&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -24,7 +24,7 @@
 
 ```yaml
 name       : Ankit Chaurasiya
-role       : Frontend Developer (Sr. Software Engineer)
+role       : Full Stack Developer (Sr. Software Engineer)
 company    : CitiusTech — Healthcare Technology Solutions
 location   : Noida, UP, India
 experience : 4+ years
@@ -36,7 +36,7 @@ currently  :
 
 learning   :
   - GenAI & Prompt Engineering
-  - Python FastAPI & Micro Frontend
+  - Python FastAPI & Frontend
   - Azure AKS & CI/CD pipelines
 
 certifications:
@@ -99,7 +99,7 @@ fun_fact   : Ran 21.1km Half Marathon in 1hr 52min 🏃 (Top 8%)
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitchaurasiya84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b8cde&text_color=c9d1d9&cache_seconds=1800"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitchaurasiya84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b8cde&text_color=c9d1d9&cache_seconds=1800"/> -->
 &nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitchaurasiya84&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&cache_seconds=1800&langs_count=8"/>
 
