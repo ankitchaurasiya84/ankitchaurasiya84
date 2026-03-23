@@ -99,13 +99,14 @@ fun_fact   : Ran 21.1km Half Marathon in 1hr 52min 🏃 (Top 8%)
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitchaurasiya84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b8cde&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitchaurasiya84&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitchaurasiya84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b8cde&text_color=c9d1d9&cache_seconds=1800"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitchaurasiya84&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&cache_seconds=1800&langs_count=8"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitchaurasiya84&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b8cde&fire=00d4ff&currStreakLabel=00d4ff" />
+  <img src="https://streak-stats.demolab.com?user=ankitchaurasiya84&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b8cde&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
