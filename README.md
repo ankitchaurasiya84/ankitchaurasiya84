@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Ankit%20Chaurasiya&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=FullStack%20Developer%20%7C%20GenAI%20Engineer&descColor=7b8cde&descAlignY=58&animation=fadeIn" />
