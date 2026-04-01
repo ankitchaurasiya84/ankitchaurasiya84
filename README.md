@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=4%2B+Years+of+Frontend+Engineering;React+%7C+Redux+%7C+TypeScript+%7C+MUI;GenAI+%7C+LLM+Integration+%7C+Prompt+Engineering;Building+Scalable+Web+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
+ 
 <br/>
 
 <!-- Profile views + followers badges -->
